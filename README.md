@@ -19,7 +19,7 @@ This project is written in ES6-code with the using backbone. It's a TodoMVC appl
 cd backbone-todomvc-es6
 npm install
 npm install -g webpack
-bower intall
+bower install
 ```
 
 ## Usage
